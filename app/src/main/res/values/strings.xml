@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Collins 1036602</string>
+    <string name="facebook_app_id">157031399630659</string>
+    <string name="fb_login_protocol_scheme">fb157031399630659</string>
+    <string name="username">Username</string>
+    <string name="profile">profile picure</string>
+
 </resources>
